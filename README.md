@@ -6,7 +6,7 @@
 
 <div align="center">
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=6E40C9&center=true&vCenter=true&random=false&width=650&lines=17+y%2Fo+Full+Stack+Developer+%F0%9F%9A%80;Data+Scientist+%26+ML+Enthusiast+%F0%9F%A4%96;Competitive+Programmer+%F0%9F%8F%86;Building+products+%40+Vedonyx+%F0%9F%92%BC;JEE+Aspirant+%7C+Physics+Nerd+%E2%9A%9B%EF%B8%8F)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=6E40C9&center=true&vCenter=true&random=false&width=650&lines=17+y%2Fo+Full+Stack+Developer+%F0%9F%9A%80;Data+Scientist+%26+ML+Enthusiast+%F0%9F%A4%96;Competitive+Programmer+%F0%9F%8F%86;Building+products+%40+Vedonyx+%F0%9F%92%BC;Financial+Modeler+%7C+Open+Source+Contributor+%F0%9F%8C%90)](https://git.io/typing-svg)
 
 </div>
 
@@ -32,7 +32,7 @@ class HarshitGupta:
 
     passions   = ["Building SaaS", "Competitive Programming",
                   "Financial Modeling", "Open Source"]
-    preparing  = "JEE Main 2026 ⚛️"
+    goal       = "Build impactful products & grow in CP 🚀"
 
     def say_hi(self):
         print("Let's build something impactful together! 🚀")
