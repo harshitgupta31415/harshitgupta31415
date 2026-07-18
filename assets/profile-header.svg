@@ -89,4 +89,15 @@
   </g>
 
   <rect x="1" y="1" width="1198" height="318" rx="15" fill="none" stroke="#30363d" stroke-width="2" />
+  <g fill="none" stroke-linecap="round" stroke-width="3" filter="url(#glow)">
+    <rect x="1.5" y="1.5" width="1197" height="317" rx="14.5" stroke="#58a6ff" stroke-dasharray="220 2810">
+      <animate attributeName="stroke-dashoffset" from="0" to="-3030" dur="9s" repeatCount="indefinite" />
+    </rect>
+    <rect x="1.5" y="1.5" width="1197" height="317" rx="14.5" stroke="#3fb950" stroke-dasharray="150 2880" stroke-dashoffset="-1000">
+      <animate attributeName="stroke-dashoffset" from="-1000" to="-4030" dur="9s" repeatCount="indefinite" />
+    </rect>
+    <rect x="1.5" y="1.5" width="1197" height="317" rx="14.5" stroke="#d29922" stroke-dasharray="110 2920" stroke-dashoffset="-2050">
+      <animate attributeName="stroke-dashoffset" from="-2050" to="-5080" dur="9s" repeatCount="indefinite" />
+    </rect>
+  </g>
 </svg>
