@@ -9,21 +9,19 @@ New Delhi, India<br />
 [Profile intro video](./assets/profile-intro.mp4)
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/harshit-gupta--)
-[![Codeforces](https://img.shields.io/badge/Codeforces-Expert-1F8ACB?style=flat-square&logo=codeforces&logoColor=white)](https://codeforces.com/profile/HarshitGupta314)
-[![LeetCode](https://img.shields.io/badge/LeetCode-300%2B_solved-FFA116?style=flat-square&logo=leetcode&logoColor=black)](https://leetcode.com/u/harshitgupta314/)
 ![Profile views](https://komarev.com/ghpvc/?username=harshitgupta31415&style=flat-square&color=555555&label=Profile+views)
 
 </div>
 
 ## About
 
-I am a developer at **Vedonyx** who enjoys turning practical problems into working software. My work spans web applications, Flutter apps, data analysis, and developer tools. Competitive programming is how I sharpen my problem-solving and algorithmic thinking.
+I am a developer at **Vedonyx** who turns practical problems into web applications, Flutter apps, data tools, and developer utilities. I use competitive programming to sharpen my algorithmic thinking while I deepen my understanding of systems, databases, and production debugging.
 
-Right now, I am focused on:
+<div align="center">
 
-- building maintainable full-stack features from UI to backend integrations;
-- improving my understanding of system design, databases, and production debugging;
-- growing through Codeforces contests and consistent problem solving.
+<img src="./assets/signal-loop.gif" width="92%" alt="Original animated code signal" />
+
+</div>
 
 ## Selected Work
 
@@ -35,55 +33,19 @@ Right now, I am focused on:
 
 ## Competitive Programming
 
-- **Codeforces:** Expert, peak rating **1668**
-- **LeetCode:** **300+ problems solved**, contest rating **1645**
-
-I primarily practice data structures, algorithms, dynamic programming, greedy techniques, and mathematical problem solving.
-
 <div align="center">
 
-[<img src="./assets/codeforces-rating.svg" width="95%" alt="HarshitGupta314 Codeforces rating chart" />](https://codeforces.com/profile/HarshitGupta314)
+[<img src="./assets/codeforces-rating.svg" width="97%" alt="Live HarshitGupta314 Codeforces dashboard" />](https://codeforces.com/profile/HarshitGupta314)
+
+<sub>Generated from the official Codeforces API every six hours.</sub><br />
+[LeetCode: 300+ solved, contest rating 1645](https://leetcode.com/u/harshitgupta314/)
 
 </div>
 
 ## Working Stack
 
-**Languages**
-
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
-![Dart](https://img.shields.io/badge/Dart-0175C2?style=flat-square&logo=dart&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-336791?style=flat-square&logo=postgresql&logoColor=white)
-
-**Product development**
-
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=next.js&logoColor=white)
-![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white)
-![Flutter](https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=flutter&logoColor=white)
-![Prisma](https://img.shields.io/badge/Prisma-2D3748?style=flat-square&logo=prisma&logoColor=white)
-
-**Data and tooling**
-
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white)
-![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white)
-![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?style=flat-square&logo=python&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
-![Vercel](https://img.shields.io/badge/Vercel-000000?style=flat-square&logo=vercel&logoColor=white)
-
-## GitHub Activity
-
-<div align="center">
-
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=harshitgupta31415&theme=github_dark" width="95%" alt="Harshit's GitHub activity summary" />
-
-</div>
-
-## Connect
-
-I am always interested in thoughtful conversations about developer tools, product engineering, data projects, and competitive programming.
-
-- [LinkedIn](https://www.linkedin.com/in/harshit-gupta--)
-- [Codeforces](https://codeforces.com/profile/HarshitGupta314)
-- [LeetCode](https://leetcode.com/u/harshitgupta314/)
+| Area | Tools |
+| --- | --- |
+| Product | Next.js, React, Node.js, Flutter, Prisma |
+| Languages | Python, TypeScript, JavaScript, Dart, SQL |
+| Data and delivery | Pandas, NumPy, Matplotlib, Git, Vercel |

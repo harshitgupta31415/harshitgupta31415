@@ -1,8 +1,8 @@
-name: Update Codeforces rating chart
+name: Update Codeforces dashboard
 
 on:
   schedule:
-    - cron: "17 3 * * *"
+    - cron: "17 */6 * * *"
   workflow_dispatch:
 
 permissions:
@@ -20,17 +20,17 @@ jobs:
         with:
           node-version: 22
 
-      - name: Generate chart from Codeforces API
+      - name: Generate dashboard from Codeforces API
         run: node scripts/update-codeforces-chart.mjs
 
-      - name: Commit an updated chart
+      - name: Commit an updated dashboard
         run: |
           if git diff --quiet -- assets/codeforces-rating.svg; then
-            echo "Rating chart is already current."
+            echo "Codeforces dashboard is already current."
             exit 0
           fi
           git config user.name "github-actions[bot]"
           git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
           git add assets/codeforces-rating.svg
-          git commit -m "chore: update Codeforces rating chart"
+          git commit -m "chore: update Codeforces dashboard"
           git push
