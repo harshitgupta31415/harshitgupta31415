@@ -1,5 +1,3 @@
-<table width="100%"><tr><td>
-
 <div align="center">
 
 <a href="./assets/profile-intro.mp4">
@@ -78,5 +76,3 @@ I am a developer at **Vedonyx** who turns practical problems into web applicatio
 [<img src="https://github-readme-activity-graph.vercel.app/graph?username=harshitgupta31415&bg_color=0d1117&color=c9d1d9&line=58a6ff&point=3fb950&area=true&hide_border=false&custom_title=Contribution%20Activity" width="97%" alt="Harshit Gupta GitHub contribution activity graph" />](https://github.com/harshitgupta31415?tab=overview)
 
 </div>
-
-</td></tr></table>
