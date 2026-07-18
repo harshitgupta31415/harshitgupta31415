@@ -5,10 +5,9 @@
 </a>
 
 **Software developer building full-stack products, data tools, and mobile apps**<br />
-New Delhi, India<br />
+[Vedonyx](https://www.vedonyx.com/) // New Delhi, India // UTC +05:30<br />
 [Profile intro video](./assets/profile-intro.mp4)
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/harshit-gupta--)
 ![Profile views](https://komarev.com/ghpvc/?username=harshitgupta31415&style=flat-square&color=555555&label=Profile+views)
 
 </div>
@@ -20,6 +19,22 @@ I am a developer at **Vedonyx** who turns practical problems into web applicatio
 <div align="center">
 
 <img src="./assets/signal-loop.gif" width="92%" alt="Original animated code signal" />
+
+</div>
+
+## Professional Channels
+
+<div align="center">
+
+<img src="./assets/connect-strip.svg" width="97%" alt="Animated professional contact channels" />
+
+[![Vedonyx](https://img.shields.io/badge/Vedonyx-Official_Site-111827?style=flat-square&logo=googlechrome&logoColor=white)](https://www.vedonyx.com/)
+[![Email](https://img.shields.io/badge/Email-harshitgupta3.1415%40gmail.com-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:harshitgupta3.1415@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Harshit_Gupta-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/harshit-gupta--)
+[![GitHub](https://img.shields.io/badge/GitHub-harshitgupta31415-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/harshitgupta31415)
+[![LeetCode](https://img.shields.io/badge/LeetCode-harshitgupta314-FFA116?style=flat-square&logo=leetcode&logoColor=111111)](https://leetcode.com/u/harshitgupta314/)
+[![Codeforces](https://img.shields.io/badge/Codeforces-HarshitGupta314-1F8ACB?style=flat-square&logo=codeforces&logoColor=white)](https://codeforces.com/profile/HarshitGupta314)
+[![Achievements](https://img.shields.io/badge/GitHub-Achievements-8250DF?style=flat-square&logo=github&logoColor=white)](https://github.com/harshitgupta31415?tab=achievements)
 
 </div>
 
