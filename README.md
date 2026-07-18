@@ -1,6 +1,6 @@
 <div align="center">
 
-<a href="./assets/profile-intro.mp4">
+<a href="https://harshitgupta31415.github.io/harshitgupta31415/">
   <img src="./assets/profile-header.svg" width="100%" alt="Harshit Gupta - software developer and competitive programmer" />
 </a>
 
