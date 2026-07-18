@@ -1,3 +1,5 @@
+<table width="100%"><tr><td>
+
 <div align="center">
 
 <a href="./assets/profile-intro.mp4">
@@ -19,8 +21,6 @@ I am a developer at **Vedonyx** who turns practical problems into web applicatio
 ## Professional Channels
 
 <div align="center">
-
-<img src="./assets/connect-strip.svg" width="97%" alt="Animated professional contact channels" />
 
 <a href="https://www.vedonyx.com/"><img src="https://www.vedonyx.com/logo/Vedonyx.svg" height="28" alt="Vedonyx" title="Vedonyx" /></a>
 [![Email](https://img.shields.io/badge/Email-Contact-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:harshitgupta3.1415@gmail.com)
@@ -78,3 +78,5 @@ I am a developer at **Vedonyx** who turns practical problems into web applicatio
 [<img src="https://github-readme-activity-graph.vercel.app/graph?username=harshitgupta31415&bg_color=0d1117&color=c9d1d9&line=58a6ff&point=3fb950&area=true&hide_border=false&custom_title=Contribution%20Activity" width="97%" alt="Harshit Gupta GitHub contribution activity graph" />](https://github.com/harshitgupta31415?tab=overview)
 
 </div>
+
+</td></tr></table>
