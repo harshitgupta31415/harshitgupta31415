@@ -1,10 +1,12 @@
 <div align="center">
 
-# Harshit Gupta
+<a href="./assets/profile-intro.mp4">
+  <img src="./assets/profile-header.svg" width="100%" alt="Harshit Gupta - software developer and competitive programmer" />
+</a>
 
-**Software developer building full-stack products, data tools, and mobile apps**
-
-New Delhi, India
+**Software developer building full-stack products, data tools, and mobile apps**<br />
+New Delhi, India<br />
+[Profile intro video](./assets/profile-intro.mp4)
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/harshit-gupta--)
 [![Codeforces](https://img.shields.io/badge/Codeforces-Expert-1F8ACB?style=flat-square&logo=codeforces&logoColor=white)](https://codeforces.com/profile/HarshitGupta314)
@@ -37,6 +39,12 @@ Right now, I am focused on:
 - **LeetCode:** **300+ problems solved**, contest rating **1645**
 
 I primarily practice data structures, algorithms, dynamic programming, greedy techniques, and mathematical problem solving.
+
+<div align="center">
+
+[<img src="./assets/codeforces-rating.svg" width="95%" alt="HarshitGupta314 Codeforces rating chart" />](https://codeforces.com/profile/HarshitGupta314)
+
+</div>
 
 ## Working Stack
 
