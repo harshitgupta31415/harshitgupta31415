@@ -16,12 +16,6 @@
 
 I am a developer at **Vedonyx** who turns practical problems into web applications, Flutter apps, data tools, and developer utilities. I use competitive programming to sharpen my algorithmic thinking while I deepen my understanding of systems, databases, and production debugging.
 
-<div align="center">
-
-<img src="./assets/signal-loop.gif" width="92%" alt="Original animated code signal" />
-
-</div>
-
 ## Professional Channels
 
 <div align="center">
