@@ -1,0 +1,63 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="960" height="230" viewBox="0 0 960 230" role="img" aria-labelledby="title description">
+  <title id="title">Animated software system map</title>
+  <desc id="description">UI and mobile clients connect through a product core to APIs, data, and tests.</desc>
+
+  <defs>
+    <linearGradient id="background" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#0d1117" />
+      <stop offset="1" stop-color="#101821" />
+    </linearGradient>
+    <linearGradient id="core" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0" stop-color="#1f6feb" />
+      <stop offset="1" stop-color="#238636" />
+    </linearGradient>
+    <filter id="glow" x="-50%" y="-50%" width="200%" height="200%">
+      <feGaussianBlur stdDeviation="3" result="blur" />
+      <feMerge>
+        <feMergeNode in="blur" />
+        <feMergeNode in="SourceGraphic" />
+      </feMerge>
+    </filter>
+  </defs>
+
+  <rect width="960" height="230" rx="12" fill="url(#background)" />
+  <rect x="0.5" y="0.5" width="959" height="229" rx="11.5" fill="none" stroke="#30363d" />
+
+  <text x="28" y="34" fill="#f0f6fc" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="17" font-weight="700">SYSTEM MAP</text>
+  <text x="28" y="54" fill="#8b949e" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="11">moving from interface to infrastructure</text>
+
+  <g fill="none" stroke="#30363d" stroke-width="2" stroke-dasharray="8 8">
+    <path id="uiPath" d="M180 91 C275 91 315 112 400 120">
+      <animate attributeName="stroke-dashoffset" from="32" to="0" dur="2.4s" repeatCount="indefinite" />
+    </path>
+    <path id="mobilePath" d="M180 171 C275 171 315 142 400 132">
+      <animate attributeName="stroke-dashoffset" from="32" to="0" dur="2.8s" repeatCount="indefinite" />
+    </path>
+    <path id="apiPath" d="M560 120 C645 112 685 91 780 91">
+      <animate attributeName="stroke-dashoffset" from="0" to="-32" dur="2.4s" repeatCount="indefinite" />
+    </path>
+    <path id="dataPath" d="M560 132 C645 142 685 171 780 171">
+      <animate attributeName="stroke-dashoffset" from="0" to="-32" dur="2.8s" repeatCount="indefinite" />
+    </path>
+    <path id="testPath" d="M480 151 V190">
+      <animate attributeName="stroke-dashoffset" from="24" to="0" dur="2s" repeatCount="indefinite" />
+    </path>
+  </g>
+
+  <g filter="url(#glow)">
+    <circle r="4" fill="#58a6ff"><animateMotion dur="2.4s" repeatCount="indefinite" path="M180 91 C275 91 315 112 400 120" /></circle>
+    <circle r="4" fill="#a371f7"><animateMotion dur="2.8s" repeatCount="indefinite" path="M180 171 C275 171 315 142 400 132" /></circle>
+    <circle r="4" fill="#3fb950"><animateMotion dur="2.4s" repeatCount="indefinite" path="M560 120 C645 112 685 91 780 91" /></circle>
+    <circle r="4" fill="#d29922"><animateMotion dur="2.8s" repeatCount="indefinite" path="M560 132 C645 142 685 171 780 171" /></circle>
+    <circle r="4" fill="#f778ba"><animateMotion dur="2s" repeatCount="indefinite" path="M480 151 V190" /></circle>
+  </g>
+
+  <g font-family="JetBrains Mono, Consolas, monospace" font-size="13" font-weight="700" text-anchor="middle">
+    <g><rect x="60" y="71" width="120" height="40" rx="6" fill="#161b22" stroke="#58a6ff" /><text x="120" y="96" fill="#58a6ff">UI</text></g>
+    <g><rect x="60" y="151" width="120" height="40" rx="6" fill="#161b22" stroke="#a371f7" /><text x="120" y="176" fill="#a371f7">MOBILE</text></g>
+    <g><rect x="400" y="101" width="160" height="50" rx="8" fill="url(#core)" /><text x="480" y="131" fill="#ffffff" font-size="15">PRODUCT CORE</text></g>
+    <g><rect x="780" y="71" width="120" height="40" rx="6" fill="#161b22" stroke="#3fb950" /><text x="840" y="96" fill="#3fb950">API</text></g>
+    <g><rect x="780" y="151" width="120" height="40" rx="6" fill="#161b22" stroke="#d29922" /><text x="840" y="176" fill="#d29922">DATA</text></g>
+    <g><rect x="430" y="190" width="100" height="28" rx="6" fill="#161b22" stroke="#f778ba" /><text x="480" y="209" fill="#f778ba" font-size="11">TESTS</text></g>
+  </g>
+</svg>

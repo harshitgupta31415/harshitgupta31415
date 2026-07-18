@@ -31,6 +31,12 @@ I am a developer at **Vedonyx** who turns practical problems into web applicatio
 | [MyCollegeFinance](https://github.com/harshitgupta31415/MyCollegeFinance_app) | A Flutter finance app designed around the budgeting needs of students. | Dart, Flutter |
 | [Blood Donation Analysis](https://github.com/harshitgupta31415/blood-donation-analysis) | Explores more than 30,000 donor records to study demographics, donation behavior, and future donation likelihood. | Python, Pandas, Matplotlib, Seaborn |
 
+<div align="center">
+
+<img src="./assets/terminal-loop.gif" width="92%" alt="Original animated terminal build sequence" />
+
+</div>
+
 ## Competitive Programming
 
 <div align="center">
@@ -49,6 +55,12 @@ I am a developer at **Vedonyx** who turns practical problems into web applicatio
 | Product | Next.js, React, Node.js, Flutter, Prisma |
 | Languages | Python, TypeScript, JavaScript, Dart, SQL |
 | Data and delivery | Pandas, NumPy, Matplotlib, Git, Vercel |
+
+<div align="center">
+
+<img src="./assets/system-map.svg" width="97%" alt="Animated map connecting interface, product, API, data, and tests" />
+
+</div>
 
 ## Contribution Activity
 
