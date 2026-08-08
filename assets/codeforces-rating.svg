@@ -154,9 +154,9 @@
   </g>
 <g>
     <text x="356" y="561" class="small">math</text>
-    <text x="606" y="561" class="small" text-anchor="end">31</text>
+    <text x="606" y="561" class="small" text-anchor="end">32</text>
     <rect x="356" y="571" width="250" height="7" rx="3.5" fill="#21262d" />
-    <rect x="356" y="571" width="230.6" height="7" rx="3.5" fill="#58a6ff" />
+    <rect x="356" y="571" width="238.0" height="7" rx="3.5" fill="#58a6ff" />
   </g>
 <g>
     <text x="662" y="561" class="small">implementation</text>
@@ -177,10 +177,10 @@
     <rect x="356" y="619" width="66.9" height="7" rx="3.5" fill="#58a6ff" />
   </g>
 <g>
-    <text x="662" y="609" class="small">dp</text>
-    <text x="912" y="609" class="small" text-anchor="end">7</text>
+    <text x="662" y="609" class="small">number theory</text>
+    <text x="912" y="609" class="small" text-anchor="end">8</text>
     <rect x="662" y="619" width="250" height="7" rx="3.5" fill="#21262d" />
-    <rect x="662" y="619" width="52.1" height="7" rx="3.5" fill="#58a6ff" />
+    <rect x="662" y="619" width="59.5" height="7" rx="3.5" fill="#58a6ff" />
   </g>
 
   <text x="30" y="663" class="detail">Near-live data: the repository refreshes only when Codeforces statistics change.</text>
