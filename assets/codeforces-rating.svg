@@ -1,6 +1,6 @@
 <svg xmlns="http://www.w3.org/2000/svg" width="1000" height="680" viewBox="0 0 1000 680" role="img" aria-labelledby="title description">
   <title id="title">HarshitGupta314 live Codeforces dashboard</title>
-  <desc id="description">Current rating 1668, peak rating 1668, 58 problems solved, and 115 submissions.</desc>
+  <desc id="description">Current rating 1761, peak rating 1761, 58 problems solved, and 115 submissions.</desc>
   <defs>
     <linearGradient id="ratingArea" x1="0" y1="0" x2="0" y2="1">
       <stop offset="0" stop-color="#58a6ff" stop-opacity="0.3" />
@@ -33,14 +33,14 @@
     <rect x="30" y="78" width="148" height="76" rx="8" fill="#161b22" stroke="#30363d" />
     <rect x="30" y="78" width="148" height="3" rx="1.5" fill="#58a6ff" />
     <text x="44" y="101" class="label">CURRENT RATING</text>
-    <text x="44" y="129" class="metric">1668</text>
+    <text x="44" y="129" class="metric">1761</text>
     <text x="44" y="146" class="detail">Expert</text>
   </g>
 <g>
     <rect x="188" y="78" width="148" height="76" rx="8" fill="#161b22" stroke="#30363d" />
     <rect x="188" y="78" width="148" height="3" rx="1.5" fill="#58a6ff" />
     <text x="202" y="101" class="label">PEAK RATING</text>
-    <text x="202" y="129" class="metric">1668</text>
+    <text x="202" y="129" class="metric">1761</text>
     <text x="202" y="146" class="detail">Expert</text>
   </g>
 <g>
@@ -68,40 +68,41 @@
     <rect x="820" y="78" width="148" height="76" rx="8" fill="#161b22" stroke="#30363d" />
     <rect x="820" y="78" width="148" height="3" rx="1.5" fill="#f778ba" />
     <text x="834" y="101" class="label">RATED CONTESTS</text>
-    <text x="834" y="129" class="metric">7</text>
+    <text x="834" y="129" class="metric">8</text>
     <text x="834" y="146" class="detail">official contests</text>
   </g>
 
   <rect x="30" y="174" width="610" height="306" rx="8" fill="#161b22" stroke="#30363d" />
   <text x="50" y="204" class="section">Rating progression</text>
-  <text x="50" y="222" class="detail">7 rated contests</text>
+  <text x="50" y="222" class="detail">8 rated contests</text>
   <g>
     <line x1="82" y1="438.0" x2="612" y2="438.0" stroke="#30363d" />
     <text x="70" y="442" class="axis" text-anchor="end">400</text>
-    <line x1="82" y1="380.9" x2="612" y2="380.9" stroke="#30363d" />
-    <text x="70" y="384.9" class="axis" text-anchor="end">800</text>
-    <line x1="82" y1="323.7" x2="612" y2="323.7" stroke="#30363d" />
-    <text x="70" y="327.7" class="axis" text-anchor="end">1200</text>
-    <line x1="82" y1="266.6" x2="612" y2="266.6" stroke="#30363d" />
-    <text x="70" y="270.6" class="axis" text-anchor="end">1600</text>
+    <line x1="82" y1="388.0" x2="612" y2="388.0" stroke="#30363d" />
+    <text x="70" y="392" class="axis" text-anchor="end">800</text>
+    <line x1="82" y1="338.0" x2="612" y2="338.0" stroke="#30363d" />
+    <text x="70" y="342" class="axis" text-anchor="end">1200</text>
+    <line x1="82" y1="288.0" x2="612" y2="288.0" stroke="#30363d" />
+    <text x="70" y="292" class="axis" text-anchor="end">1600</text>
     <line x1="82" y1="238.0" x2="612" y2="238.0" stroke="#30363d" />
-    <text x="70" y="242" class="axis" text-anchor="end">1800</text>
+    <text x="70" y="242" class="axis" text-anchor="end">2000</text>
     <text x="82.0" y="460" class="axis" text-anchor="middle">Apr 28</text>
-    <text x="347.0" y="460" class="axis" text-anchor="middle">Jun 7</text>
-    <text x="612.0" y="460" class="axis" text-anchor="middle">Jun 28</text>
-    <path d="M82.0 418.7 L170.3 375.0 L258.7 342.6 L347.0 311.7 L435.3 305.7 L523.7 266.9 L612.0 256.9 L612.0 438 L82.0 438 Z" fill="url(#ratingArea)" />
-    <path d="M82.0 418.7 L170.3 375.0 L258.7 342.6 L347.0 311.7 L435.3 305.7 L523.7 266.9 L612.0 256.9" pathLength="1" fill="none" stroke="#58a6ff" stroke-width="4" stroke-linecap="round" stroke-linejoin="round" stroke-dasharray="1" stroke-dashoffset="1">
+    <text x="309.1" y="460" class="axis" text-anchor="middle">Jun 7</text>
+    <text x="612.0" y="460" class="axis" text-anchor="middle">Aug 7</text>
+    <path d="M82.0 421.1 L157.7 382.9 L233.4 354.5 L309.1 327.5 L384.9 322.3 L460.6 288.3 L536.3 279.5 L612.0 267.9 L612.0 438 L82.0 438 Z" fill="url(#ratingArea)" />
+    <path d="M82.0 421.1 L157.7 382.9 L233.4 354.5 L309.1 327.5 L384.9 322.3 L460.6 288.3 L536.3 279.5 L612.0 267.9" pathLength="1" fill="none" stroke="#58a6ff" stroke-width="4" stroke-linecap="round" stroke-linejoin="round" stroke-dasharray="1" stroke-dashoffset="1">
       <animate attributeName="stroke-dashoffset" from="1" to="0" dur="1.8s" fill="freeze" />
     </path>
-    <circle cx="82.0" cy="418.7" r="3.5" fill="#8b949e" stroke="#0d1117" stroke-width="2" />
-    <circle cx="170.3" cy="375.0" r="3.5" fill="#8b949e" stroke="#0d1117" stroke-width="2" />
-    <circle cx="258.7" cy="342.6" r="3.5" fill="#8b949e" stroke="#0d1117" stroke-width="2" />
-    <circle cx="347.0" cy="311.7" r="3.5" fill="#3fb950" stroke="#0d1117" stroke-width="2" />
-    <circle cx="435.3" cy="305.7" r="3.5" fill="#3fb950" stroke="#0d1117" stroke-width="2" />
-    <circle cx="523.7" cy="266.9" r="3.5" fill="#22d3ee" stroke="#0d1117" stroke-width="2" />
-    <circle cx="612.0" cy="256.9" r="3.5" fill="#58a6ff" stroke="#0d1117" stroke-width="2" />
-    <text x="612.0" y="242.9" class="value" text-anchor="end">1668</text>
-    <circle cx="612.0" cy="256.9" r="7" fill="none" stroke="#58a6ff">
+    <circle cx="82.0" cy="421.1" r="3.5" fill="#8b949e" stroke="#0d1117" stroke-width="2" />
+    <circle cx="157.7" cy="382.9" r="3.5" fill="#8b949e" stroke="#0d1117" stroke-width="2" />
+    <circle cx="233.4" cy="354.5" r="3.5" fill="#8b949e" stroke="#0d1117" stroke-width="2" />
+    <circle cx="309.1" cy="327.5" r="3.5" fill="#3fb950" stroke="#0d1117" stroke-width="2" />
+    <circle cx="384.9" cy="322.3" r="3.5" fill="#3fb950" stroke="#0d1117" stroke-width="2" />
+    <circle cx="460.6" cy="288.3" r="3.5" fill="#22d3ee" stroke="#0d1117" stroke-width="2" />
+    <circle cx="536.3" cy="279.5" r="3.5" fill="#58a6ff" stroke="#0d1117" stroke-width="2" />
+    <circle cx="612.0" cy="267.9" r="3.5" fill="#58a6ff" stroke="#0d1117" stroke-width="2" />
+    <text x="612.0" y="253.9" class="value" text-anchor="end">1761</text>
+    <circle cx="612.0" cy="267.9" r="7" fill="none" stroke="#58a6ff">
       <animate attributeName="r" values="7;14;7" dur="2.2s" repeatCount="indefinite" />
       <animate attributeName="opacity" values="0.9;0;0.9" dur="2.2s" repeatCount="indefinite" />
     </circle>
@@ -148,7 +149,7 @@
   <text x="950" y="526" class="detail" text-anchor="end">counted once per solved problem</text>
   <g>
     <text x="50" y="561" class="small">greedy</text>
-    <text x="300" y="561" class="small" text-anchor="end">32</text>
+    <text x="300" y="561" class="small" text-anchor="end">33</text>
     <rect x="50" y="571" width="250" height="7" rx="3.5" fill="#21262d" />
     <rect x="50" y="571" width="238.0" height="7" rx="3.5" fill="#58a6ff" />
   </g>
@@ -156,31 +157,31 @@
     <text x="356" y="561" class="small">math</text>
     <text x="606" y="561" class="small" text-anchor="end">32</text>
     <rect x="356" y="571" width="250" height="7" rx="3.5" fill="#21262d" />
-    <rect x="356" y="571" width="238.0" height="7" rx="3.5" fill="#58a6ff" />
+    <rect x="356" y="571" width="230.8" height="7" rx="3.5" fill="#58a6ff" />
   </g>
 <g>
     <text x="662" y="561" class="small">implementation</text>
     <text x="912" y="561" class="small" text-anchor="end">12</text>
     <rect x="662" y="571" width="250" height="7" rx="3.5" fill="#21262d" />
-    <rect x="662" y="571" width="89.3" height="7" rx="3.5" fill="#58a6ff" />
+    <rect x="662" y="571" width="86.5" height="7" rx="3.5" fill="#58a6ff" />
   </g>
 <g>
     <text x="50" y="609" class="small">sortings</text>
-    <text x="300" y="609" class="small" text-anchor="end">10</text>
+    <text x="300" y="609" class="small" text-anchor="end">11</text>
     <rect x="50" y="619" width="250" height="7" rx="3.5" fill="#21262d" />
-    <rect x="50" y="619" width="74.4" height="7" rx="3.5" fill="#58a6ff" />
+    <rect x="50" y="619" width="79.3" height="7" rx="3.5" fill="#58a6ff" />
   </g>
 <g>
     <text x="356" y="609" class="small">constructive algorithms</text>
     <text x="606" y="609" class="small" text-anchor="end">9</text>
     <rect x="356" y="619" width="250" height="7" rx="3.5" fill="#21262d" />
-    <rect x="356" y="619" width="66.9" height="7" rx="3.5" fill="#58a6ff" />
+    <rect x="356" y="619" width="64.9" height="7" rx="3.5" fill="#58a6ff" />
   </g>
 <g>
     <text x="662" y="609" class="small">number theory</text>
     <text x="912" y="609" class="small" text-anchor="end">8</text>
     <rect x="662" y="619" width="250" height="7" rx="3.5" fill="#21262d" />
-    <rect x="662" y="619" width="59.5" height="7" rx="3.5" fill="#58a6ff" />
+    <rect x="662" y="619" width="57.7" height="7" rx="3.5" fill="#58a6ff" />
   </g>
 
   <text x="30" y="663" class="detail">Near-live data: the repository refreshes only when Codeforces statistics change.</text>
