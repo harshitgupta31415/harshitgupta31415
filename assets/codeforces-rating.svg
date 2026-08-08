@@ -160,9 +160,9 @@
   </g>
 <g>
     <text x="662" y="561" class="small">implementation</text>
-    <text x="912" y="561" class="small" text-anchor="end">11</text>
+    <text x="912" y="561" class="small" text-anchor="end">12</text>
     <rect x="662" y="571" width="250" height="7" rx="3.5" fill="#21262d" />
-    <rect x="662" y="571" width="81.8" height="7" rx="3.5" fill="#58a6ff" />
+    <rect x="662" y="571" width="89.3" height="7" rx="3.5" fill="#58a6ff" />
   </g>
 <g>
     <text x="50" y="609" class="small">sortings</text>
