@@ -21,6 +21,18 @@ I am the **CTO at [Vedonyx](https://www.vedonyx.com/)**, based in New Delhi, Ind
 | [Memvora CLI](https://github.com/harshitgupta31415/memvora-cli) | Installable CLI for terminal capture, content hashing, offline queueing, workspace configuration, and authenticated synchronization. | Python, Typer, HTTPX |
 | [VectorBridge](https://github.com/harshitgupta31415/cdr_to_svg) | Local-first CDR/SVG conversion interface with engine discovery, temporary-file cleanup, progress feedback, and light/dark themes. | TypeScript, Next.js, Node.js |
 
+## Small tools, sharp boundaries
+
+| Tool | What it solves |
+| --- | --- |
+| [envproof](https://github.com/harshitgupta31415/envproof) | Finds missing, empty, duplicate, and undocumented environment keys without exposing values. |
+| [jsonshape](https://github.com/harshitgupta31415/jsonshape) | Detects breaking structural changes between JSON API payloads. |
+| [portpick](https://github.com/harshitgupta31415/portpick) | Finds or safely reserves predictable TCP ports for local tools and test suites. |
+| [PR Size Guard](https://github.com/harshitgupta31415/pr-size-guard) | Adds configurable pull-request size feedback without tokens or noisy bot comments. |
+| [Stack Trace Sprint](https://github.com/harshitgupta31415/stack-trace-sprint) | Turns realistic failure traces into a keyboard-accessible debugging game. |
+
+[Browse the complete project index →](PROJECTS.md)
+
 ## Open-source contributions
 
 - [OpenClaw: seed Discord presence data after startup and reconnect](https://github.com/openclaw/openclaw/pull/141218) — merged with focused regression coverage and runtime-boundary validation.
