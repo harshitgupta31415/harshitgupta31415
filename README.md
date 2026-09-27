@@ -2,7 +2,7 @@
 
 <img src="./assets/profile-header.svg" width="100%" alt="Harshit Gupta — software developer and competitive programmer" />
 
-### Full-stack developer building developer tools, reliable web systems, and data products
+### 17-year-old full-stack developer building reliable systems · Codeforces Expert · 427+ problems solved
 
 [LinkedIn](https://www.linkedin.com/in/harshit-gupta--) · [Email](mailto:harshitgupta3.1415@gmail.com) · [LeetCode](https://leetcode.com/u/harshitgupta314/) · [Codeforces](https://codeforces.com/profile/HarshitGupta314)
 
