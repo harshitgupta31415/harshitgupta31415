@@ -10,7 +10,7 @@
 
 ## About
 
-I am the **CTO at [Vedonyx](https://www.vedonyx.com/)**, based in New Delhi, India. I work primarily with TypeScript, Python, React, FastAPI, PostgreSQL, and Flutter. I enjoy taking products beyond the demo stage: defining system boundaries, testing failure cases, documenting trade-offs, and deploying software that other people can evaluate.
+I am a **17-year-old developer and CTO at [Vedonyx](https://www.vedonyx.com/)**, based in New Delhi, India. I work primarily with TypeScript, Python, React, FastAPI, PostgreSQL, and Flutter. I enjoy taking products beyond the demo stage: defining system boundaries, testing failure cases, documenting trade-offs, and deploying software that other people can evaluate.
 
 ## Selected engineering work
 
@@ -47,7 +47,7 @@ I am the **CTO at [Vedonyx](https://www.vedonyx.com/)**, based in New Delhi, Ind
 - **Product engineering:** accessible interfaces, typed APIs, authentication, persistence, and responsive interaction.
 - **Backend systems:** Python services, PostgreSQL, migrations, validation, authorization, and failure-safe workflows.
 - **Delivery:** automated tests, GitHub Actions, containers, Vercel, Cloud Run, and Kubernetes.
-- **Problem solving:** Codeforces Expert and 350+ solved LeetCode problems.
+- **Problem solving:** Codeforces Expert with **427+ unique problems solved** across LeetCode and Codeforces—currently 368 on LeetCode and 59 on Codeforces.
 
 ## Competitive programming
 
