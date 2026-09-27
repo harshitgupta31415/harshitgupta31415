@@ -30,6 +30,9 @@ I am the **CTO at [Vedonyx](https://www.vedonyx.com/)**, based in New Delhi, Ind
 | [portpick](https://github.com/harshitgupta31415/portpick) | Finds or safely reserves predictable TCP ports for local tools and test suites. |
 | [PR Size Guard](https://github.com/harshitgupta31415/pr-size-guard) | Adds configurable pull-request size feedback without tokens or noisy bot comments. |
 | [Stack Trace Sprint](https://github.com/harshitgupta31415/stack-trace-sprint) | Turns realistic failure traces into a keyboard-accessible debugging game. |
+| [Repo Radar](https://github.com/harshitgupta31415/repo-radar) | Audits repository health and produces actionable local or CI reports. |
+| [API Pulse](https://github.com/harshitgupta31415/api-pulse) | Checks endpoint availability, accepted statuses, and latency targets from a small contract. |
+| [Contrast Lab](https://github.com/harshitgupta31415/contrast-lab) | Tests accessible colour pairs with exact WCAG calculations and shareable URLs. |
 
 [Browse the complete project index →](PROJECTS.md)
 

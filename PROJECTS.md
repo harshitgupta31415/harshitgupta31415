@@ -11,6 +11,9 @@ This index groups my public work by the engineering problem it explores. The pro
 | [portpick](https://github.com/harshitgupta31415/portpick) | Find or reserve predictable local TCP ports | Python |
 | [PR Size Guard](https://github.com/harshitgupta31415/pr-size-guard) | Keep pull requests reviewable with configurable size limits | GitHub Actions, Node.js |
 | [Memvora CLI](https://github.com/harshitgupta31415/memvora-cli) | Capture and synchronize terminal context | Python |
+| [Repo Radar](https://github.com/harshitgupta31415/repo-radar) | Audit repository health and generate actionable reports | Python |
+| [API Pulse](https://github.com/harshitgupta31415/api-pulse) | Check endpoint availability, status contracts, and latency targets | Node.js |
+| [Contrast Lab](https://github.com/harshitgupta31415/contrast-lab) | Evaluate and share WCAG colour pairs locally | JavaScript, HTML, CSS |
 
 ## Data and product engineering
 
