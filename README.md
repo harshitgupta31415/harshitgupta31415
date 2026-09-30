@@ -2,7 +2,7 @@
 
 <img src="./assets/profile-header.svg" width="100%" alt="Harshit Gupta — software developer and competitive programmer" />
 
-### 17-year-old full-stack developer building reliable systems · Codeforces Expert · 427+ problems solved
+### 17-year-old full-stack developer building reliable systems · Codeforces Expert · 430+ problems solved
 
 [LinkedIn](https://www.linkedin.com/in/harshit-gupta--) · [Email](mailto:harshitgupta3.1415@gmail.com) · [LeetCode](https://leetcode.com/u/harshitgupta314/) · [Codeforces](https://codeforces.com/profile/HarshitGupta314)
 
@@ -47,7 +47,7 @@ I am a **17-year-old developer and CTO at [Vedonyx](https://www.vedonyx.com/)**,
 - **Product engineering:** accessible interfaces, typed APIs, authentication, persistence, and responsive interaction.
 - **Backend systems:** Python services, PostgreSQL, migrations, validation, authorization, and failure-safe workflows.
 - **Delivery:** automated tests, GitHub Actions, containers, Vercel, Cloud Run, and Kubernetes.
-- **Problem solving:** Codeforces Expert with **427+ unique problems solved** across LeetCode and Codeforces—currently 368 on LeetCode and 59 on Codeforces.
+- **Problem solving:** Codeforces Expert with **430+ unique problems solved** across LeetCode and Codeforces—currently 368 on LeetCode and 59 on Codeforces.
 
 ## Competitive programming
 
