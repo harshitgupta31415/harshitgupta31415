@@ -38,6 +38,8 @@ I am a **17-year-old developer and CTO at [Vedonyx](https://www.vedonyx.com/)**,
 
 ## Open-source contributions
 
+- [OpenClaw: preserve request context in queued operations](https://github.com/openclaw/openclaw/pull/164105) — kept each queued operation's diagnostic context tied to its submitting request, with regression coverage.
+- [OpenClaw: keep distinct mixed-script memories in search results](https://github.com/openclaw/openclaw/pull/164062) — improved Unicode tokenization so distinct Cyrillic, Arabic, and Indic notes are not treated as duplicates.
 - [OpenClaw: find tool parameters inside composed schemas](https://github.com/openclaw/openclaw/pull/164032) — fixed tool discovery for parameter names and descriptions nested in `anyOf`, `oneOf`, and `allOf`, with regression tests.
 - [OpenClaw: seed Discord presence data after startup and reconnect](https://github.com/openclaw/openclaw/pull/141218) — merged with focused regression coverage and runtime-boundary validation.
 - [OpenClaw: clarify replies to buttonless question prompts](https://github.com/openclaw/openclaw/pull/137978) — replaced tap-only guidance with instructions that also work in text-only channels.
