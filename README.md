@@ -38,6 +38,8 @@ I am a **17-year-old developer and CTO at [Vedonyx](https://www.vedonyx.com/)**,
 
 ## Open-source contributions
 
+### Merged pull requests
+
 1. [OpenClaw: avoid Doctor backups for unchanged one-shot jobs](https://github.com/openclaw/openclaw/pull/168938) — made cron repair a no-op for canonical schedules while preserving backups for real changes.
 2. [OpenClaw: preserve request context in queued operations](https://github.com/openclaw/openclaw/pull/164105) — kept each queued operation's diagnostic context tied to its submitting request, with regression coverage.
 3. [OpenClaw: keep distinct mixed-script memories in search results](https://github.com/openclaw/openclaw/pull/164062) — improved Unicode tokenization so distinct Cyrillic, Arabic, and Indic notes are not treated as duplicates.
@@ -46,6 +48,10 @@ I am a **17-year-old developer and CTO at [Vedonyx](https://www.vedonyx.com/)**,
 6. [OpenClaw: clarify replies to buttonless question prompts](https://github.com/openclaw/openclaw/pull/137978) — replaced tap-only guidance with instructions that also work in text-only channels.
 7. [OpenClaw: correct node-approval command examples](https://github.com/openclaw/openclaw/pull/153716) — merged documentation fix.
 8. [Kubernetes: update the gRPC dependency](https://github.com/kubernetes/kubernetes/pull/141976) — merged upstream contribution.
+
+### Co-authored upstream commits
+
+1. [XlsxWriter: speed up object positioning on uniform-height sheets](https://github.com/jmcnamara/XlsxWriter/commit/a039e83dacf1631d6d19b59f4217c79db8f76160) — reported and benchmarked [issue #1210](https://github.com/jmcnamara/XlsxWriter/issues/1210), then submitted [PR #1211](https://github.com/jmcnamara/XlsxWriter/pull/1211). The maintainer landed a simpler implementation directly on `main` with co-author credit; the PR itself was closed without merging.
 
 ## Engineering focus
 
