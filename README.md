@@ -40,7 +40,7 @@ I am a **17-year-old developer and CTO at [Vedonyx](https://www.vedonyx.com/)**,
 
 ### Merged pull requests
 
-1. [fsspec: speed up TAR file listing](https://github.com/fsspec/filesystem_spec/pull/2304) — avoided repeated directory-cache scans when finding TAR paths, with compatibility fallbacks and regression tests.
+1. [fsspec: speed up TAR file listing](https://github.com/fsspec/filesystem_spec/pull/2304) — avoided repeated directory-cache scans, with up to **221.795× faster warm TAR listings** in Django-source benchmarks (476.572 ms → 2.149 ms), plus compatibility fallbacks and regression tests.
 2. [Babel: speed up PO location lookups](https://github.com/python-babel/babel/pull/1389) — optimized duplicate checks for PO source references while preserving reference order, with regression coverage.
 3. [OpenClaw: avoid Doctor backups for unchanged one-shot jobs](https://github.com/openclaw/openclaw/pull/168938) — made cron repair a no-op for canonical schedules while preserving backups for real changes.
 4. [OpenClaw: preserve request context in queued operations](https://github.com/openclaw/openclaw/pull/164105) — kept each queued operation's diagnostic context tied to its submitting request, with regression coverage.
