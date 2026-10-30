@@ -40,16 +40,18 @@ I am a **17-year-old developer and CTO at [Vedonyx](https://www.vedonyx.com/)**,
 
 ### Merged pull requests
 
-1. [fsspec: speed up TAR file listing](https://github.com/fsspec/filesystem_spec/pull/2304) — avoided repeated directory-cache scans, with up to **221.795× faster warm TAR listings** in Django-source benchmarks (476.572 ms → 2.149 ms), plus compatibility fallbacks and regression tests.
-2. [Babel: speed up PO location lookups](https://github.com/python-babel/babel/pull/1389) — optimized duplicate checks for PO source references while preserving reference order, with regression coverage.
-3. [OpenClaw: avoid Doctor backups for unchanged one-shot jobs](https://github.com/openclaw/openclaw/pull/168938) — made cron repair a no-op for canonical schedules while preserving backups for real changes.
-4. [OpenClaw: preserve request context in queued operations](https://github.com/openclaw/openclaw/pull/164105) — kept each queued operation's diagnostic context tied to its submitting request, with regression coverage.
-5. [OpenClaw: keep distinct mixed-script memories in search results](https://github.com/openclaw/openclaw/pull/164062) — improved Unicode tokenization so distinct Cyrillic, Arabic, and Indic notes are not treated as duplicates.
-6. [OpenClaw: find tool parameters inside composed schemas](https://github.com/openclaw/openclaw/pull/164032) — fixed tool discovery for parameter names and descriptions nested in `anyOf`, `oneOf`, and `allOf`, with regression tests.
-7. [OpenClaw: seed Discord presence data after startup and reconnect](https://github.com/openclaw/openclaw/pull/141218) — merged with focused regression coverage and runtime-boundary validation.
-8. [OpenClaw: clarify replies to buttonless question prompts](https://github.com/openclaw/openclaw/pull/137978) — replaced tap-only guidance with instructions that also work in text-only channels.
-9. [OpenClaw: correct node-approval command examples](https://github.com/openclaw/openclaw/pull/153716) — merged documentation fix.
-10. [Kubernetes: update the gRPC dependency](https://github.com/kubernetes/kubernetes/pull/141976) — merged upstream contribution.
+1. Wonderland: [file browsing and renaming (#59)](https://github.com/TheWonderlandStudio/Idiot_Box/pull/59), [closed-tab recovery and relative paths (#53)](https://github.com/TheWonderlandStudio/Idiot_Box/pull/53), [log copying and shared-view synchronization (#61)](https://github.com/TheWonderlandStudio/Idiot_Box/pull/61), [recent files and keyboard search (#56)](https://github.com/TheWonderlandStudio/Idiot_Box/pull/56), [workspace bounds and tab dragging (#51)](https://github.com/TheWonderlandStudio/Idiot_Box/pull/51), [startup settings preservation (#50)](https://github.com/TheWonderlandStudio/Idiot_Box/pull/50), [safe replace undo and search positions (#48)](https://github.com/TheWonderlandStudio/Idiot_Box/pull/48).
+2. [tomlkit: speed up array appends](https://github.com/python-poetry/tomlkit/pull/666) — avoided rebuilding the full index on normal array appends, preserving formatting behavior and compatibility fallbacks, with regression coverage.
+3. [fsspec: speed up TAR file listing](https://github.com/fsspec/filesystem_spec/pull/2304) — avoided repeated directory-cache scans, with up to **221.795× faster warm TAR listings** in Django-source benchmarks (476.572 ms → 2.149 ms), plus compatibility fallbacks and regression tests.
+4. [Babel: speed up PO location lookups](https://github.com/python-babel/babel/pull/1389) — optimized duplicate checks for PO source references while preserving reference order, with regression coverage.
+5. [OpenClaw: avoid Doctor backups for unchanged one-shot jobs](https://github.com/openclaw/openclaw/pull/168938) — made cron repair a no-op for canonical schedules while preserving backups for real changes.
+6. [OpenClaw: preserve request context in queued operations](https://github.com/openclaw/openclaw/pull/164105) — kept each queued operation's diagnostic context tied to its submitting request, with regression coverage.
+7. [OpenClaw: keep distinct mixed-script memories in search results](https://github.com/openclaw/openclaw/pull/164062) — improved Unicode tokenization so distinct Cyrillic, Arabic, and Indic notes are not treated as duplicates.
+8. [OpenClaw: find tool parameters inside composed schemas](https://github.com/openclaw/openclaw/pull/164032) — fixed tool discovery for parameter names and descriptions nested in `anyOf`, `oneOf`, and `allOf`, with regression tests.
+9. [OpenClaw: seed Discord presence data after startup and reconnect](https://github.com/openclaw/openclaw/pull/141218) — merged with focused regression coverage and runtime-boundary validation.
+10. [OpenClaw: clarify replies to buttonless question prompts](https://github.com/openclaw/openclaw/pull/137978) — replaced tap-only guidance with instructions that also work in text-only channels.
+11. [OpenClaw: correct node-approval command examples](https://github.com/openclaw/openclaw/pull/153716) — merged documentation fix.
+12. [Kubernetes: update the gRPC dependency](https://github.com/kubernetes/kubernetes/pull/141976) — merged upstream contribution.
 
 ### Co-authored upstream commits
 
