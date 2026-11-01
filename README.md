@@ -56,7 +56,8 @@ I am a **17-year-old developer and CTO at [Vedonyx](https://www.vedonyx.com/)**,
 
 ### Co-authored upstream commits
 
-1. [XlsxWriter: speed up object positioning on uniform-height sheets](https://github.com/jmcnamara/XlsxWriter/commit/a039e83dacf1631d6d19b59f4217c79db8f76160) — reported and benchmarked [issue #1210](https://github.com/jmcnamara/XlsxWriter/issues/1210), then submitted [PR #1211](https://github.com/jmcnamara/XlsxWriter/pull/1211). The maintainer landed a simpler implementation directly on `main` with co-author credit; the PR itself was closed without merging.
+1. [OpenClaw: handle Windows paths in repository checks](https://github.com/openclaw/openclaw/commit/c9569e415c92416497f25d2352dac69282a852b2) — proposed the original fix in [PR #168956](https://github.com/openclaw/openclaw/pull/168956). Maintainers independently implemented and merged replacement [PR #190069](https://github.com/openclaw/openclaw/pull/190069) with co-author credit, correcting Windows path handling in SQLite and changelog checks.
+2. [XlsxWriter: speed up object positioning on uniform-height sheets](https://github.com/jmcnamara/XlsxWriter/commit/a039e83dacf1631d6d19b59f4217c79db8f76160) — reported and benchmarked [issue #1210](https://github.com/jmcnamara/XlsxWriter/issues/1210), then submitted [PR #1211](https://github.com/jmcnamara/XlsxWriter/pull/1211). The maintainer landed a simpler implementation directly on `main` with co-author credit; the PR itself was closed without merging.
 
 ## Engineering focus
 
