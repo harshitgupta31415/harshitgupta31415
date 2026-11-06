@@ -4,13 +4,15 @@
 
 ### 18-year-old full-stack developer building reliable systems · Codeforces Expert · 430+ problems solved
 
-[LinkedIn](https://www.linkedin.com/in/harshit-gupta--) · [Email](mailto:harshitgupta3.1415@gmail.com) · [LeetCode](https://leetcode.com/u/harshitgupta314/) · [Codeforces](https://codeforces.com/profile/HarshitGupta314)
+[LinkedIn](https://www.linkedin.com/in/harshit-gupta--) · [Unstop](https://unstop.com/u/harshgup9009) · [Email](mailto:harshitgupta3.1415@gmail.com) · [LeetCode](https://leetcode.com/u/harshitgupta314/) · [Codeforces](https://codeforces.com/profile/HarshitGupta314)
 
 </div>
 
 ## About
 
 I am an **18-year-old developer and CTO at [Vedonyx](https://www.vedonyx.com/)**, based in New Delhi, India. I work primarily with TypeScript, Python, React, FastAPI, PostgreSQL, and Flutter. I enjoy taking products beyond the demo stage: defining system boundaries, testing failure cases, documenting trade-offs, and deploying software that other people can evaluate.
+
+**Unstop:** [Top 3% in Unstop Rankings](https://unstop.com/u/harshgup9009) (November 2026).
 
 ## Selected engineering work
 
