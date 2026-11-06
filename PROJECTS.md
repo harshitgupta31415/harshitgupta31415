@@ -38,7 +38,9 @@ The Python Memvora CLI belongs to the earlier [Memvora web/API implementation](h
 | [Planet](https://github.com/harshitgupta31415/replicathon1) | Study responsive composition through a product-page recreation | HTML, CSS |
 | [LeetCode Solutions](https://github.com/harshitgupta31415/leethub) | Topic-indexed collection of personal algorithm and data-structure solutions synchronized through LeetHub | Python, C++ |
 
-## Collaborative project work
+## Collaborative work and community references
+
+### Project contributions
 
 These links point to contributor forks. The descriptions identify my work within each project.
 
@@ -47,5 +49,14 @@ These links point to contributor forks. The descriptions identify my work within
 | [Mars Mission Planner](https://github.com/harshitgupta31415/bvn) | Built a concept interface for Mars travel with destination exploration, mission choices, itinerary views, motion and locally saved profiles | Next.js, TypeScript, Framer Motion |
 | [Jal Jeevan Swasthya](https://github.com/harshitgupta31415/SIH-Hackathon) | Contributed report lists, risk maps, upgrade-request and water-quality views for a community-health monitoring hackathon project | Next.js, React, FastAPI, PostgreSQL |
 | [HTML Editor Pro](https://github.com/harshitgupta31415/html-viewer) | Contributed visual-editor undo/redo, selection and pointer interactions, plus project-file utilities | React, TypeScript, Vite, Monaco |
+
+### Reference forks
+
+Public forks of other teams' projects, with the original implementations credited below.
+
+| Project | Scope | Main technology |
+| --- | --- | --- |
+| [RAG in Goa](https://github.com/harshitgupta31415/HHGoa-RAG) · [Original project](https://github.com/harshit403-pixel/HHGoa-RAG) | Reference fork of a voice-enabled question-answering prototype with document retrieval and source context | React, TypeScript, Express, FAISS |
+| [NYW — Not Your Wellbeing](https://github.com/harshitgupta31415/digital-wellbeing) · [Original project](https://github.com/akshitvudutha/digital-wellbeing) | Reference fork of a Windows screen-time tracker with idle detection and usage analytics | Python, PySide6, SQLite, Win32 |
 
 Open-source contributions to independent upstream projects are recorded in the [profile contribution list](README.md#open-source-contributions).
