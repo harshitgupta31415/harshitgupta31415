@@ -2,7 +2,7 @@
 
 <img src="./assets/profile-header.svg" width="100%" alt="Harshit Gupta — software developer and competitive programmer" />
 
-### 18-year-old full-stack developer building reliable systems · Codeforces Expert · 430+ problems solved
+### 18-year-old full-stack developer building reliable systems · Codeforces Expert · 451 problems solved
 
 [LinkedIn](https://www.linkedin.com/in/harshit-gupta--) · [Unstop](https://unstop.com/u/harshgup9009) · [Email](mailto:harshitgupta3.1415@gmail.com) · [LeetCode](https://leetcode.com/u/harshitgupta314/) · [Codeforces](https://codeforces.com/profile/HarshitGupta314)
 
@@ -18,6 +18,7 @@ I am an **18-year-old developer and CTO at [Vedonyx](https://www.vedonyx.com/)**
 
 | Project | Engineering highlights | Stack |
 | --- | --- | --- |
+| [Backend Fieldguide](https://github.com/harshitgupta31415/backend-fieldguide) · [Live course](https://backend-fieldguide.vercel.app/) | Interactive ecommerce backend course with 108 lessons, 16 practice missions, and browser simulations for inventory and payment retries. | Next.js, React |
 | [RollbackReady](https://github.com/harshitgupta31415/nycr3s1-frontend) · [API](https://github.com/harshitgupta31415/nycr3s1-backend) | Evidence-based Prisma migration review with deterministic checks, disposable PostgreSQL simulations, failure timelines, verified recovery plans, CI, containers, and cloud deployment. | Next.js, TypeScript, FastAPI, PostgreSQL, Docker, Kubernetes |
 | [Prisma Schema Visualizer](https://github.com/harshitgupta31415/prisma-visualizer) · [Live](https://prisma-visualizer-six.vercel.app) | Interactive ER diagrams with relationship routing, obstacle avoidance, focus states, zoom, pan, and PNG export. | Next.js, React, TypeScript |
 | [Memvora CLI](https://github.com/harshitgupta31415/memvora-cli) | Installable CLI for terminal capture, content hashing, offline queueing, workspace configuration, and authenticated synchronization. | Python, Typer, HTTPX |
@@ -81,7 +82,7 @@ I am an **18-year-old developer and CTO at [Vedonyx](https://www.vedonyx.com/)**
 - **Product engineering:** accessible interfaces, typed APIs, authentication, persistence, and responsive interaction.
 - **Backend systems:** Python services, PostgreSQL, migrations, validation, authorization, and failure-safe workflows.
 - **Delivery:** automated tests, GitHub Actions, containers, Vercel, Cloud Run, and Kubernetes.
-- **Problem solving:** Codeforces Expert with **430+ unique problems solved** across LeetCode and Codeforces—currently 368 on LeetCode and 59 on Codeforces.
+- **Problem solving** · **451 problems solved**, including 392 on LeetCode and 59 on Codeforces. Codeforces Expert with a rating of 1777. [LeetCode](https://leetcode.com/u/harshitgupta314/) · [Codeforces](https://codeforces.com/profile/HarshitGupta314)
 
 ## Competitive programming
 
